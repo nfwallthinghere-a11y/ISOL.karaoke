@@ -1,0 +1,13 @@
+{
+  "name": "karaoke-call",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Phòng voice call hát chung: icon từng nhà, line distribution trực tiếp, thử thách hát đúng nhịp, chia sẻ màn hình",
+  "scripts": {
+    "dev": "node tests/dev-server.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
